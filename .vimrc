@@ -1,5 +1,6 @@
 "===== 表示設定 =====
 set number "行番号の表示
+set relativenumber "相対番号の表示
 
 "===== 文字、カーソル設定 =====
 set fenc=utf-8 "文字コードを指定
